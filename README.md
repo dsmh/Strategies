@@ -1,2 +1,2 @@
-# Stretagys
-Trade Stretagys for Freqtrade
+# Stretegies
+Trade Stretagies for Freqtrade
